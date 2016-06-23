@@ -5,6 +5,7 @@ Slides and articles from tumour-immunology journal-sweep meetings.
 ### 23th of June, 2016
 
 <b>Slide-deck:</b> 
+<a href="https://drive.google.com/open?id=0Bz7jHjHQ8OpWOXFrU0FYbzIzYUk">Slides</a>.
 
 <b>Articles:</b>
 
