@@ -2,6 +2,20 @@
 
 Slides and articles from tumour-immunology journal-sweep meetings.
 
+### 23th of June, 2016
+
+<b>Slide-deck:</b> 
+
+<b>Articles:</b>
+
+1. Nature Cell Biology: Baer C et al, <a href="http://www.ncbi.nlm.nih.gov/pubmed/27295554">Suppression of microRNA activity amplifies IFN-γ-induced macrophage activation and promotes anti-tumour immunity</a>.
+
+2. Nature: Kranz LM et al, <a href="http://www.ncbi.nlm.nih.gov/pubmed/27281205">Systemic RNA delivery to dendritic cells exploits antiviral defence for cancer immunotherapy</a>.
+
+3. Science: Strønen E et al, <a href="http://www.ncbi.nlm.nih.gov/pubmed/27198675">Targeting of cancer neoantigens with donor-derived T cell receptor repertoires</a>.
+
+4. Immunity: Ho SS et al, <a href="http://www.ncbi.nlm.nih.gov/pubmed/27178469">The DNA Structure-Specific Endonuclease MUS81 Mediates DNA Sensor STING-Dependent Host Rejection of Prostate Cancer Cells</a>.
+
 ### 26th of May, 2016
 
 <b>Slide-deck:</b> 
