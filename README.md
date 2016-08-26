@@ -2,6 +2,20 @@
 
 Slides and articles from tumour-immunology journal-sweep meetings.
 
+### 25th of August, 2016
+
+<b>Slide-deck:</b> <a href="https://drive.google.com/file/d/0Bz7jHjHQ8OpWYk1RTDhULUlUTjA/view?usp=sharing">Slides</a>.
+
+<b>Articles:</b>
+
+1. Immunity: Scharping NE et al, <a href="http://www.ncbi.nlm.nih.gov/pubmed/27496732">The Tumor Microenvironment Represses T Cell Mitochondrial Biogenesis to Drive Intratumoral T Cell Metabolic Insufficiency and Dysfunction</a>.
+
+2. Cancer Cell: Roberts EW et al, <a href="http://www.ncbi.nlm.nih.gov/pubmed/27424807">Critical Role for CD103(+)/CD141(+) Dendritic Cells Bearing CCR7 for Tumor Antigen Trafficking and Priming of T Cell Immunity in Melanoma</a>.
+
+3. Cancer Research: Walton J et al, <a href="http://www.ncbi.nlm.nih.gov/pubmed/27530326">CRISPR/Cas9-mediated Trp53 and Brca2 knockout to generate improved murine models of ovarian high grade serous carcinoma.</a>.
+
+4. Cell: Denny SK et al, <a href="http://www.ncbi.nlm.nih.gov/pubmed/27374332">Nfib Promotes Metastasis through a Widespread Increase in Chromatin Accessibility</a>.
+
 ### 23th of June, 2016
 
 <b>Slide-deck:</b> 
