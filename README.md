@@ -2,6 +2,20 @@
 
 Slides and articles from tumour-immunology journal-sweep meetings.
 
+### 28th of September, 2016
+
+<b>Slide-deck:</b> <a href="https://drive.google.com/file/d/0Bz7jHjHQ8OpWNU1fQ1dBRzNCTTA/view?usp=sharing">Slides</a>.
+
+<b>Articles:</b>
+
+1. Cell: Singer M et al, <a href="https://www.ncbi.nlm.nih.gov/pubmed/27610572">A Distinct Gene Module for Dysfunction Uncoupled from Activation in Tumor-Infiltrating T Cells</a>.
+
+2. Cancer Cell: Young A et al, <a href="https://www.ncbi.nlm.nih.gov/pubmed/27622332">Co-inhibition of CD73 and A2AR Adenosine Signaling Improves Anti-tumor Immune Responses.</a>.
+
+3. Cancer Cell: Liu Y et al, <a href="https://www.ncbi.nlm.nih.gov/pubmed/27505671">Tumor Exosomal RNAs Promote Lung Pre-metastatic Niche Formation by Activating Alveolar Epithelial TLR3 to Recruit Neutrophils</a>.
+
+4. Nature Biotech: Bentzen AK et al, <a href="https://www.ncbi.nlm.nih.gov/pubmed/27571370">Large-scale detection of antigen-specific T cells using peptide-MHC-I multimers labeled with DNA barcodes</a>.
+
 ### 25th of August, 2016
 
 <b>Slide-deck:</b> <a href="https://drive.google.com/file/d/0Bz7jHjHQ8OpWYk1RTDhULUlUTjA/view?usp=sharing">Slides</a>.
