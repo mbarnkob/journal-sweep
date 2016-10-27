@@ -2,6 +2,20 @@
 
 Slides and articles from tumour-immunology journal-sweep meetings.
 
+### 27th of October, 2016
+
+<b>Slide-deck:</b> <a href="https://drive.google.com/file/d/0Bz7jHjHQ8OpWWm1YemduRG5iWGM/view?usp=sharing">Slides</a>.
+
+<b>Articles:</b>
+
+1. Science: Liepe J et al, <a href="http://science.sciencemag.org/content/354/6310/354">A large fraction of HLA class I ligands are proteasome-generated spliced peptides</a>.
+
+2. Immunity: Bhattacharya N et al, <a href="https://www.ncbi.nlm.nih.gov/pubmed/27590114">Normalizing Microbiota-Induced Retinoic Acid Deficiency Stimulates Protective CD8(+) T Cell-Mediated Immunity in Colorectal Cancer.</a>.
+
+3. Cancer Cell: Eggert T et al, <a href="https://www.ncbi.nlm.nih.gov/pubmed/27728804">Distinct Functions of Senescence-Associated Immune Responses in Liver Tumor Surveillance and Tumor Progression</a>. 
+
+4. Cancer Immunology Research: Prickett TD et al, <a href="https://www.ncbi.nlm.nih.gov/pubmed/27312342">Durable Complete Response from Metastatic Melanoma after Transfer of Autologous T Cells Recognizing 10 Mutated Tumor Antigens</a>.
+
 ### 28th of September, 2016
 
 <b>Slide-deck:</b> <a href="https://drive.google.com/file/d/0Bz7jHjHQ8OpWNU1fQ1dBRzNCTTA/view?usp=sharing">Slides</a>.
