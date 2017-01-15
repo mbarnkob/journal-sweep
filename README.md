@@ -2,6 +2,20 @@
 
 Slides and articles from tumour-immunology journal-sweep meetings.
 
+### 1st of December, 2016
+
+<b>Slide-deck:</b> <a href="https://drive.google.com/file/d/0Bz7jHjHQ8OpWTmdRYjZINjdNWnc/view?usp=sharing">Slides</a>.
+
+<b>Articles:</b>
+
+1. J Natl Cancer Inst.: Prehn RT et al, <a href="https://www.ncbi.nlm.nih.gov/pubmed/13502695">Immunity to methylcholanthrene-induced sarcomas</a>.
+
+2. Cancer Research: Gross L, <a href="http://cancerres.aacrjournals.org/content/3/5/326">Intradermal Immunization of C3H Mice Against a Sarcoma That Originated in an Animal of the Same Line</a>.
+
+3. Cancer Research: Hart IR, <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=7388794">Role of organ selectivity in the determination of metastatic patterns of B16 melanoma</a>.
+
+4. Nature: Pearse AM et al, <a href="https://www.ncbi.nlm.nih.gov/pubmed/16452970">Allograft theory: transmission of devil facial-tumour disease</a>.
+
 ### 27th of October, 2016
 
 <b>Slide-deck:</b> <a href="https://drive.google.com/file/d/0Bz7jHjHQ8OpWWm1YemduRG5iWGM/view?usp=sharing">Slides</a>.
