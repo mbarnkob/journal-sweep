@@ -18,6 +18,10 @@ Slides and articles from tumour-immunology journal-sweep meetings.
 
 6. Cancer Cell: Katlinski et al, <a href="http://www.cell.com/cancer-cell/abstract/S1535-6108(17)30004-1">Inactivation of Interferon Receptor Promotes the Establishment of Immune Privileged Tumor Microenvironment</a>.
 
+### 26th of January, 2017
+
+<b>Slide-dec:</b> <a href="https://drive.google.com/file/d/0Bz7jHjHQ8OpWTDdBN3RUMmVza0k/view?usp=sharing">Slides</a>.
+
 ### 1st of December, 2016
 
 <b>Slide-deck:</b> <a href="https://drive.google.com/file/d/0Bz7jHjHQ8OpWTmdRYjZINjdNWnc/view?usp=sharing">Slides</a>.
