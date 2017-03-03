@@ -2,6 +2,22 @@
 
 Slides and articles from tumour-immunology journal-sweep meetings.
 
+### 3rd of March, 2017
+
+<b>Slide-deck:</b> <a href="https://drive.google.com/file/d/0Bz7jHjHQ8OpWVTZxMVJzRm5yMTQ/view?usp=sharing">Slides.</a>
+
+1. Nature Medicine: Crome et al, <a href="http://www.nature.com/nm/journal/vaop/ncurrent/full/nm.4278.html?WT.feed_name=subjects_translational-immunology">A distinct innate lymphoid cell population regulates tumor-associated T cells</a>.
+
+2. Nature: Eyquem et al, <a href="http://www.nature.com/nature/journal/v543/n7643/full/nature21405.html">Targeting a CAR to the TRAC locus with CRISPR/Cas9 enhances tumour rejection</a>.
+
+3. Journal of Immunology: Rakhmilevich AL et al, <a href="http://www.jimmunol.org/content/198/4/1575">Effective Combination of Innate and Adaptive Immunotherapeutic Approaches in a Mouse Melanoma Model</a>.
+
+4. Immunity: Stephen TL et al, <a href="http://www.cell.com/immunity/abstract/S1074-7613(16)30521-0">SATB1 Expression Governs Epigenetic Repression of PD-1 in Tumor-Reactive T Cells</a>
+
+5. PNAS: Wang H et al, <a href="http://www.pnas.org/content/114/7/1637">cGAS is essential for the antitumor effect of immune checkpoint blockade</a>.
+
+6. Cancer Cell: Katlinski et al, <a href="http://www.cell.com/cancer-cell/abstract/S1535-6108(17)30004-1">Inactivation of Interferon Receptor Promotes the Establishment of Immune Privileged Tumor Microenvironment</a>.
+
 ### 1st of December, 2016
 
 <b>Slide-deck:</b> <a href="https://drive.google.com/file/d/0Bz7jHjHQ8OpWTmdRYjZINjdNWnc/view?usp=sharing">Slides</a>.
